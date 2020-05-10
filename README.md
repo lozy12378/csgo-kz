@@ -1,5 +1,5 @@
 # csgo-kz
-cs settings, execs, lj-bind and nulls
+A collection of cs settings, execs, lj-bind and nulls.
 
 - Start.txt belongs into csgo => properties => set launch options...
 
